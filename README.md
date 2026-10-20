@@ -43,7 +43,7 @@
 - [Quick Start](#-quick-start)
 - [Environment Variables](#-environment-variables)
 - [Seeding the Database](#-seeding-the-database)
-- [Running the App](#️-running-the-app)
+- [Running the App](#-running-the-app)
 - [API Reference](#-api-reference)
 - [Data Models](#-data-models)
 - [Design System](#-design-system)
